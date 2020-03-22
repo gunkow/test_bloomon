@@ -14,20 +14,12 @@ stdin something like:
 
 
 `aS`
-
 `aS`
-
 `bS`
-
 `kS`
-
 `kS`
-
 `rL`
-
 `kS`
-
 `tS`
-
 `tS`
 
